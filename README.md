@@ -1,6 +1,4 @@
-### editing in main branch of local for 9 asnmnt
-
-# git-test-TC-repo1
+# git-test-TC-repo1  after merging solving conflict
 demo of repo TC basics and markdown basics
 ## this is subheading L2
 ### this is subheading L3
@@ -28,6 +26,3 @@ different subheadings options for markdown documents
 1. by 
 1. using 
 1. one for everything
-
-
-### yes editing in feature branch  of local for 9 asnmnt  but we are changing in the main 
