@@ -10,14 +10,12 @@ different subheadings options for markdown documents
 ### unordered lists
 * markdown 
 * supports 
-* unordered list 
-* using star symbol
+* unordered list  using star symbol
 
 - or 
-- using 
-- dash
-- symbol 
+- using dash symbol 
 
+### are you seeing it 
 ### ordered lists 
 1. markdown
 2. support 
@@ -27,6 +25,4 @@ different subheadings options for markdown documents
 1. or 
 1. by 
 1. using 
-1. one. 
-1. for 
-1. everything
+1. one for everything
